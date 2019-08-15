@@ -11,7 +11,7 @@ This is test library for the python which lets you create graph using some funct
 *   Check Path \[Undirected\]
 *   Disconnected Components \[Undirected\]
 
-*   Create Graph
+#   Create Graph
     
     ### Description:
     
@@ -24,7 +24,7 @@ This is test library for the python which lets you create graph using some funct
     Return Type : None  
     In above example d is the dictionary (so called graph)  
     
-*   Detect Cycle
+#   Detect Cycle
     
     ### Description:
     
@@ -37,7 +37,7 @@ This is test library for the python which lets you create graph using some funct
     Return Type : Boolean  
     In above example d is the dictionary (so called graph)  
     
-*   Check Path
+#   Check Path
 
     
     ### Description:
@@ -51,7 +51,7 @@ This is test library for the python which lets you create graph using some funct
     Return Type : Boolean  
     In above example d is the dictionary (so called graph)  
     
-*   Disconnected Components
+#   Disconnected Components
 
     
     ### Description:
@@ -66,14 +66,14 @@ This is test library for the python which lets you create graph using some funct
     Return Type : Dict  
     
 
-\# Note
+# Note
 
 ##### Remember
 
 This library resembles undirected graph  
 Also Get the logic behind function that is very important  
   
-\# Do Support Author : Amit Singh Sansoya (@amit3200)  
+# Do Support Author : Amit Singh Sansoya (@amit3200)  
 Github : https://github.com/Amit3200  
 
 #### Keep Coding and Smiling
