@@ -35,10 +35,10 @@ library  : graphq<br>
                     u and v. Moreover the edge v and u will be automatically created as this
                     is undirected graph.</p><br>
         <p>
-          ```Function Use : insertuv(dictionary_name,node1,node2)
-          Example : graphq.insert_uv(d,1,2)
-          Return Type : None
-          In above example d is the dictionary (so called graph)```
+          Function Use : insertuv(dictionary_name,node1,node2)<br>
+          Example : graphq.insert_uv(d,1,2)<br>
+          Return Type : None<br>
+          In above example d is the dictionary (so called graph)<br>
         </p>
     </li>
     <li>
@@ -49,10 +49,10 @@ library  : graphq<br>
             Return type is Boolean [True or False] where True tells that graph has cycle and False depicts
                 there is no cycle. This will detect as per the undirected graph.</p><br>
         <p>
-        ```Function use : detect_cycle(dictionary_name)
-        Example : graphq.detect_cycle(d)
-        Return Type : Boolean
-        In above example d is the dictionary (so called graph)```
+        Function use : detect_cycle(dictionary_name)<br>
+        Example : graphq.detect_cycle(d)<br>
+        Return Type : Boolean<br>
+        In above example d is the dictionary (so called graph)<br>
         </p>
    </li>
    <li> <h1>Check Path</h1>
@@ -63,10 +63,10 @@ library  : graphq<br>
          returns boolean value. True if there is path between u and v else False</p>
          <br>
       <p>
-        ```Function use : check_path(dictionary_name,node1,node2)
-        Example : graphq.check_path(d,2,8)
-        Return Type : Boolean
-        In above example d is the dictionary (so called graph)```
+        Function use : check_path(dictionary_name,node1,node2)<br>
+        Example : graphq.check_path(d,2,8)<br>
+        Return Type : Boolean<br>
+        In above example d is the dictionary (so called graph)<br>
         </p>
    </li>
 <li>
@@ -80,18 +80,17 @@ library  : graphq<br>
          'components': Gives the list of containing nodes which are connected together</p>
          <br>
          <p>
-            ```Function use : graphq.get_disconnected_components(d)
-                           graphq.get_disconnected_components(d)['dis_count']
-                           graphq.get_disconnected_components(d)['components']```
+           Function use : graphq.get_disconnected_components(d)<br>
+                           graphq.get_disconnected_components(d)['dis_count']<br>
+                           graphq.get_disconnected_components(d)['components']<br>
+           Return Type : Dict<br>
    </p>
    </li>
   </ul>
 # Note
-```Remember :  This library resembles undirected graph
-              Also Get the logic behind function that is very important```
+```Remember :  This library resembles undirected graph```
+              ```Also Get the logic behind function that is very important```
 # Do Support
- ```
- Author   : Amit Singh Sansoya (@amit3200)
-    Github   : https://github.com/Amit3200```
-
-   <h4> Keep Coding and Smiling</h4>
+ ```Author   : Amit Singh Sansoya (@amit3200)```
+   ``` Github   : https://github.com/Amit3200```
+<h4> Keep Coding and Smiling</h4>
