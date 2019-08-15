@@ -2,8 +2,13 @@ Author : Amit Singh Sansoya (@amit3200)
 Github : https://github.com/Amit3200  
 library : graphqt  
 
-\# Import \`\`\`import graphqt\`\`\` # Introduction
+# Import 
 
+\`\`\`import graphqt\`\`\` 
+
+
+
+# Introduction
 This is test library for the python which lets you create graph using some functions. This library will allow you to create undirected graphs and also provides some of the other functionalities. This library is for the beginner programmer who wants to get started at the programming with the graphs and want to visualize it easily. It is highly recommended to learn the actual code so that one can implement them without using this library at the interviews, and competition. This library was designed for the programmers who are studying graph currently. This will allow them to have the idea and brute force solution to them which they can further optimize. This libary also allow's you to do following things
 
 *   Create Graph \[Undirected\]
