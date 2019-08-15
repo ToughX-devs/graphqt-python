@@ -4,7 +4,7 @@ library : graphqt
 
 # Import 
 
-\`\`\`import graphqt\`\`\` 
+```import graphqt``` 
 
 
 
@@ -30,7 +30,7 @@ This is test library for the python which lets you create graph using some funct
     In above example d is the dictionary (so called graph)  
     
 #   Detect Cycle
-    
+
     ### Description:
     
     As the name suggests, this function will allow you to detect if there is a cycle in graph Return type is Boolean \[True or False\] where True tells that graph has cycle and False depicts there is no cycle. This will detect as per the undirected graph.
@@ -78,7 +78,8 @@ This is test library for the python which lets you create graph using some funct
 This library resembles undirected graph  
 Also Get the logic behind function that is very important  
   
-# Do Support Author : Amit Singh Sansoya (@amit3200)  
-Github : https://github.com/Amit3200  
+# Do Support Author : 
+### Amit Singh Sansoya (@amit3200)  
+### Github : https://github.com/Amit3200  
 
-#### Keep Coding and Smiling
+## Keep Coding and Smiling
