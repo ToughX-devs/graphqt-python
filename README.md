@@ -90,9 +90,8 @@ library  : graphq<br>
 # Note
 <h5>Remember</h5> 
 This library resembles undirected graph<br>
-Also Get the logic behind function that is very important<br>
-<br>
+Also Get the logic behind function that is very important<br><br>
 # Do Support
 Author   : Amit Singh Sansoya (@amit3200)<br>
-Github   : https://github.com/Amit3200`<br>
+Github   : https://github.com/Amit3200<br>
 <h4> Keep Coding and Smiling</h4>
