@@ -2,8 +2,13 @@ Author : Amit Singh Sansoya (@amit3200)
 Github : https://github.com/Amit3200  
 library : graphqt  
 
-\# Import \`\`\`import graphqt\`\`\` # Introduction
+# Import 
 
+```import graphqt``` 
+
+
+
+# Introduction
 This is test library for the python which lets you create graph using some functions. This library will allow you to create undirected graphs and also provides some of the other functionalities. This library is for the beginner programmer who wants to get started at the programming with the graphs and want to visualize it easily. It is highly recommended to learn the actual code so that one can implement them without using this library at the interviews, and competition. This library was designed for the programmers who are studying graph currently. This will allow them to have the idea and brute force solution to them which they can further optimize. This libary also allow's you to do following things
 
 *   Create Graph \[Undirected\]
@@ -11,7 +16,7 @@ This is test library for the python which lets you create graph using some funct
 *   Check Path \[Undirected\]
 *   Disconnected Components \[Undirected\]
 
-*   Create Graph
+#   Create Graph
     
     ### Description:
     
@@ -24,8 +29,8 @@ This is test library for the python which lets you create graph using some funct
     Return Type : None  
     In above example d is the dictionary (so called graph)  
     
-*   Detect Cycle
-    
+#   Detect Cycle
+
     ### Description:
     
     As the name suggests, this function will allow you to detect if there is a cycle in graph Return type is Boolean \[True or False\] where True tells that graph has cycle and False depicts there is no cycle. This will detect as per the undirected graph.
@@ -37,7 +42,7 @@ This is test library for the python which lets you create graph using some funct
     Return Type : Boolean  
     In above example d is the dictionary (so called graph)  
     
-*   Check Path
+#   Check Path
 
     
     ### Description:
@@ -51,7 +56,7 @@ This is test library for the python which lets you create graph using some funct
     Return Type : Boolean  
     In above example d is the dictionary (so called graph)  
     
-*   Disconnected Components
+#   Disconnected Components
 
     
     ### Description:
@@ -66,14 +71,15 @@ This is test library for the python which lets you create graph using some funct
     Return Type : Dict  
     
 
-\# Note
+# Note
 
 ##### Remember
 
 This library resembles undirected graph  
 Also Get the logic behind function that is very important  
   
-\# Do Support Author : Amit Singh Sansoya (@amit3200)  
-Github : https://github.com/Amit3200  
+# Do Support Author : 
+### Amit Singh Sansoya (@amit3200)  
+### Github : https://github.com/Amit3200  
 
-#### Keep Coding and Smiling
+## Keep Coding and Smiling
