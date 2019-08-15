@@ -1,11 +1,11 @@
-    Author   : Amit Singh Sansoya (@amit3200)
-    Github   : https://github.com/Amit3200
-    library  : graphq
+Author   : Amit Singh Sansoya (@amit3200)
+Github   : https://github.com/Amit3200
+library  : graphq
 
-    #Import  
-    	import graphq
+#Import  
+   import graphq
 
-    #Introduction
+#Introduction
     This is test library for the python which lets you create graph using some functions.
     This library will allow you to create undirected graphs and also provides some of the
     other functionalities. This library is for the beginner programmer who wants to get started
@@ -13,17 +13,19 @@
     learn the actual code so that one can implement them without using this library at the interviews,
     and competition. This library was designed for the programmers who are studying graph currently.
     This will allow them to have the idea and brute force solution to them which they can further optimize.
-
+    
     This libary also allow's you to do following things
-        1. Create Graph [Undirected]
-        2. Detect Cycle [Undirected]
-        3. Check Path [Undirected]
-        4. Disconnected Components [Undirected]
-
-    #Functions
+    <ul>
+        <li> Create Graph [Undirected]</li>
+        <li> Detect Cycle [Undirected]</li>
+        <li> Check Path [Undirected]</li>
+        <li> Disconnected Components [Undirected]</li>
+    </ul>
+        
+#Functions
     1. Create Graph
 
-        Description:
+        <h3>Description:</h3>
 
             This function allow you to add the edge between two nodes.
             The use of this function is very simple. One only needs to pass the
@@ -42,7 +44,7 @@
 
     2. Detect Cycle
 
-        Description:
+        <h3>Description:</h3>
 
             As the name suggests, this function will allow you to detect if there is a cycle in graph
             Return type is Boolean [True or False] where True tells that graph has cycle and False depicts
@@ -58,7 +60,7 @@
 
     3. Check Path
 
-        Description:
+        <h3>Description:</h3>
 
             As the name says this function will tell you if there exists the path between two nodes.
             One only needs to pass dictionary_name (so called graph), the node u and node v. This function
@@ -74,7 +76,7 @@
 
     4. Disconnected Components
 
-        Description:
+        <h3>Description:</h3>
 
             As the name says this function will detect the disconnected components and this will return a dictionary
             having keys as:
