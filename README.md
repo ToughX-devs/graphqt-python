@@ -1,5 +1,3 @@
-'''
-
 
     Author   : Amit Singh Sansoya (@amit3200)
     Github   : https://github.com/Amit3200
@@ -93,4 +91,4 @@
     Author   : Amit Singh Sansoya (@amit3200)
     Github   : https://github.com/Amit3200
 
-    Keep Coding and Smiling'''
+    Keep Coding and Smiling
