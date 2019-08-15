@@ -1,0 +1,8 @@
+README.md
+setup.py
+graphqt/__init__.py
+graphqt/graphqt.py
+graphqt.egg-info/PKG-INFO
+graphqt.egg-info/SOURCES.txt
+graphqt.egg-info/dependency_links.txt
+graphqt.egg-info/top_level.txt

@@ -3,7 +3,7 @@
 
     Author   : Amit Singh Sansoya (@amit3200)
     Github   : https://github.com/Amit3200
-    library  : graphq
+    library  : graphqt
 
 
 
@@ -34,7 +34,7 @@
 
         Function Use : insertuv(dictionary_name,node1,node2)
 
-        Example : graphq.insert_uv(d,1,2)
+        Example : graphqt.insert_uv(d,1,2)
 
         Return Type : None
 
@@ -50,7 +50,7 @@
 
         Function use : detect_cycle(dictionary_name)
 
-        Example : graphq.detect_cycle(d)
+        Example : graphqt.detect_cycle(d)
 
         Return Type : Boolean
 
@@ -66,7 +66,7 @@
 
         Function use : check_path(dictionary_name,node1,node2)
 
-        Example : graphq.check_path(d,2,8)
+        Example : graphqt.check_path(d,2,8)
 
         Return Type : Boolean
 
@@ -82,9 +82,9 @@
                          is 1 then there is no disconnected component. [ Makes Sense ;) ]
             'components': Gives the list of containing nodes which are connected together
 
-            Function use : graphq.get_disconnected_components(d)
-                           graphq.get_disconnected_components(d)['dis_count']
-                           graphq.get_disconnected_components(d)['components']
+            Function use : graphqt.get_disconnected_components(d)
+                           graphqt.get_disconnected_components(d)['dis_count']
+                           graphqt.get_disconnected_components(d)['components']
 
     Remember :  This library resembles undirected graph
                 Also Get the logic behind function that is very important
