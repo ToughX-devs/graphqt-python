@@ -1,10 +1,11 @@
-
     Author   : Amit Singh Sansoya (@amit3200)
     Github   : https://github.com/Amit3200
     library  : graphq
 
+    #Import  
+    	import graphq
 
-
+    #Introduction
     This is test library for the python which lets you create graph using some functions.
     This library will allow you to create undirected graphs and also provides some of the
     other functionalities. This library is for the beginner programmer who wants to get started
@@ -19,6 +20,7 @@
         3. Check Path [Undirected]
         4. Disconnected Components [Undirected]
 
+    #Functions
     1. Create Graph
 
         Description:
@@ -84,10 +86,13 @@
                            graphq.get_disconnected_components(d)['dis_count']
                            graphq.get_disconnected_components(d)['components']
 
+
+    #Note
     Remember :  This library resembles undirected graph
                 Also Get the logic behind function that is very important
 
 
+    #Do Support
     Author   : Amit Singh Sansoya (@amit3200)
     Github   : https://github.com/Amit3200
 
