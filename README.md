@@ -24,7 +24,6 @@ library  : graphq<br>
         <li> Disconnected Components [Undirected]</li>
     </ul>
  </p>       
-# Functions
 <ul>
     <li>
         <h1>Create Graph</h1>
@@ -87,10 +86,13 @@ library  : graphq<br>
    </p>
    </li>
   </ul>
+  
 # Note
-```Remember :  This library resembles undirected graph```
-              ```Also Get the logic behind function that is very important```
+<h5>Remember</h5> 
+This library resembles undirected graph<br>
+Also Get the logic behind function that is very important<br>
+<br>
 # Do Support
- ```Author   : Amit Singh Sansoya (@amit3200)```
-   ``` Github   : https://github.com/Amit3200```
+Author   : Amit Singh Sansoya (@amit3200)<br>
+Github   : https://github.com/Amit3200`<br>
 <h4> Keep Coding and Smiling</h4>
