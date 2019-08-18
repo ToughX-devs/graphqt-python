@@ -79,8 +79,7 @@ This library resembles undirected graph
 Also Get the logic behind function that is very important  
   
 # Do Support
-### Author : 
-### Amit Singh Sansoya (@amit3200)  
+### Author : Amit Singh Sansoya (@amit3200)  
 ### Github : https://github.com/Amit3200  
 
 ## Keep Coding and Smiling
