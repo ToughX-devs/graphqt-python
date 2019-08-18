@@ -78,7 +78,8 @@ This is test library for the python which lets you create graph using some funct
 This library resembles undirected graph  
 Also Get the logic behind function that is very important  
   
-# Do Support Author : 
+# Do Support
+### Author : 
 ### Amit Singh Sansoya (@amit3200)  
 ### Github : https://github.com/Amit3200  
 
